@@ -1,0 +1,7 @@
+**/vendor
+.Rproj.user
+**/.Rproj.user
+C-sharp/packages
+R/.Rhistory
+php/composer.json
+php/composer.lock

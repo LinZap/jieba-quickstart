@@ -1,0 +1,10 @@
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\C-sharp.exe.config
+D:\Python\jieba-quickstart\C-sharp\C-sharp\obj\Debug\C-sharp.csprojResolveAssemblyReference.cache
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\C-sharp.exe
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\C-sharp.pdb
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\JiebaNet.Analyser.dll
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\JiebaNet.Segmenter.dll
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\Newtonsoft.Json.dll
+D:\Python\jieba-quickstart\C-sharp\C-sharp\bin\Debug\Newtonsoft.Json.xml
+D:\Python\jieba-quickstart\C-sharp\C-sharp\obj\Debug\C-sharp.exe
+D:\Python\jieba-quickstart\C-sharp\C-sharp\obj\Debug\C-sharp.pdb
