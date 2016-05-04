@@ -14,13 +14,38 @@
 * [R](https://github.com/LinZap/jieba-quickstart/tree/master/R)
 * [Python](https://github.com/LinZap/jieba-quickstart/tree/master/python)
 * [C#](https://github.com/LinZap/jieba-quickstart/tree/master/C-sharp) (目前有 BUG)
-* [C++](#) (待有人實作)
+* [Java](https://github.com/LinZap/jieba-quickstart/tree/master/java)
+* C++ (待有人實作)
 * Node.JS (不建議，相依 C++ 建議直接呼叫 C++版本)
-* Java 
 * Erlang
 
 
+## ISSUE
+以下列出幾個版本的問題：
 
+### PHP
+PHP 版本使用原生 PHP 實作 jieba，語言特性不好處理大量文字的 case
+
+### R 
+R 語言的速度是很快的，不過範例中斷出來的結果顯然效果不好，待有人來修正
+
+### Python
+功能完整，支援度高，討論資源最多，個人最推薦的方案
+
+### C#
+目前在編譯階段會出錯，已經將錯誤提交給原作者，待原作者解答
+
+### Java
+原始的 jieba JAVA ver. 使用上有諸多不友善，且有許多功能沒有實作，這邊我自行改良了一個輕量版，可以藉由這個迷你專案快速改成符合需求的功能
+
+### Node.JS
+不建議使用，相依在 C++ 上，建議透過 Node.js 直接呼叫其他語言的實作
+
+### C++
+待有人來實作
+
+
+<br>
 
 ## License
 

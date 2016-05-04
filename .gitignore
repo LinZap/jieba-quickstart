@@ -5,3 +5,5 @@ C-sharp/packages
 R/.Rhistory
 php/composer.json
 php/composer.lock
+.metadata
+/.recommenders
