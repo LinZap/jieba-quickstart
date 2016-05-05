@@ -1,6 +1,5 @@
 ﻿using JiebaNet.Segmenter;
 using System;
-using System.Collections.Generic;
 
 namespace C_sharp
 {
@@ -10,11 +9,14 @@ namespace C_sharp
         {
 
             JiebaSegmenter segmenter = new JiebaSegmenter();
-            //var segments = segmenter.Cut("資訊工程學系");
-            //Console.WriteLine(string.Join(" ", segments));
-            IEnumerable<string> segments = segmenter.Cut("我来到北京清华大学");  // 默认为精确模式
-            Console.WriteLine("【精确模式】：{0}", string.Join("/ ", segments));
+            segmenter.AddWord("學系");
 
-        }
+            String[] sets = new String[] { "資訊工程學系", "資訊管理學系", "應用化學學系", "土木工程學系", "外國語言學系" };
+
+            foreach (string s in sets) 
+                Console.WriteLine(string.Join(" ", segmenter.Cut(s)));
+            
+            Console.ReadKey();
+         }
     }
 }

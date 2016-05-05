@@ -27,7 +27,7 @@ PM> Install-Package jieba.NET
 
 ## Bug
 
-目前 C\# 版本有 Bug 無法執行，待找到原因後再請各位嘗試
+已經在這個版本中解決，詳情可以看我與作者的討論 [#ISSUE3](https://github.com/anderscui/jieba.NET/issues/3)
 
 
 

@@ -13,7 +13,7 @@
 * [PHP](https://github.com/LinZap/jieba-quickstart/tree/master/php)
 * [R](https://github.com/LinZap/jieba-quickstart/tree/master/R)
 * [Python](https://github.com/LinZap/jieba-quickstart/tree/master/python)
-* [C#](https://github.com/LinZap/jieba-quickstart/tree/master/C-sharp) (目前有 BUG)
+* [C#](https://github.com/LinZap/jieba-quickstart/tree/master/C-sharp)
 * [Java](https://github.com/LinZap/jieba-quickstart/tree/master/java)
 * C++ (待有人實作)
 * Node.JS (不建議，相依 C++ 建議直接呼叫 C++版本)
@@ -32,8 +32,8 @@ R 語言的速度是很快的，不過範例中斷出來的結果顯然效果不
 ### Python
 功能完整，支援度高，討論資源最多，個人最推薦的方案
 
-### C\#
-目前在編譯階段會出錯，已經將錯誤提交給原作者，待原作者解答
+### C#
+支援度與速度都不錯，也是個好的選項
 
 ### Java
 原始的 jieba JAVA ver. 使用上有諸多不友善，且有許多功能沒有實作，這邊我自行改良了一個輕量版，可以藉由這個迷你專案快速改成符合需求的功能
