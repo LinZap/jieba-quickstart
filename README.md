@@ -24,19 +24,24 @@
 以下列出幾個版本的問題：
 
 ### PHP
-PHP 版本使用原生 PHP 實作 jieba，語言特性不好處理大量文字的 case
+PHP 版本使用原生 PHP 實作 jieba，語言特性不好處理大量文字的 case  
+觀看：[Example](https://github.com/LinZap/jieba-quickstart/blob/master/php/main.php)
 
 ### R 
-R 語言的速度是很快的，不過範例中斷出來的結果顯然效果不好，待有人來修正
+R 語言的速度是很快的，不過範例中斷出來的結果顯然效果不好，待有人來修正  
+觀看：[Example](https://github.com/LinZap/jieba-quickstart/blob/master/R/mian.R)
 
 ### Python
-功能完整，支援度高，討論資源最多，個人最推薦的方案
+功能完整，支援度高，討論資源最多，個人最推薦的方案  
+觀看：[Example](https://github.com/LinZap/jieba-quickstart/blob/master/python/main.py)
 
-### C#
-支援度與速度都不錯，也是個好的選項
+### C sharp
+支援度與速度都不錯，也是個好的選項  
+觀看：[Example](https://github.com/LinZap/jieba-quickstart/blob/master/C-sharp/C-sharp/Program.cs)
 
 ### Java
-原始的 jieba JAVA ver. 使用上有諸多不友善，且有許多功能沒有實作，這邊我自行改良了一個輕量版，可以藉由這個迷你專案快速改成符合需求的功能
+原始的 jieba JAVA ver. 使用上有諸多不友善，且有許多功能沒有實作，這邊我自行改良了一個輕量版，可以藉由這個迷你專案快速改成符合需求的功能  
+觀看：[Example](https://github.com/LinZap/jieba-quickstart/blob/master/java/src/main/Main.java)
 
 ### Node.JS
 不建議使用，相依在 C++ 上，建議透過 Node.js 直接呼叫其他語言的實作
