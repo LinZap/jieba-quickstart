@@ -1,4 +1,4 @@
-# jieba - quickstart (C# ver.)
+# jieba - quickstart (C\# ver.)
 
 ## System
 
@@ -27,7 +27,7 @@ PM> Install-Package jieba.NET
 
 ## Bug
 
-目前 C# 版本有 Bug 無法執行，待找到原因後再請各位嘗試
+目前 C\# 版本有 Bug 無法執行，待找到原因後再請各位嘗試
 
 
 
