@@ -29,6 +29,12 @@ PM> Install-Package jieba.NET
 
 已經在這個版本中解決，詳情可以看我與作者的討論 [#ISSUE3](https://github.com/anderscui/jieba.NET/issues/3)
 
+## 其他版本
+* [PHP](https://github.com/LinZap/jieba-quickstart/tree/master/php)
+* [R](https://github.com/LinZap/jieba-quickstart/tree/master/R)
+* [Python](https://github.com/LinZap/jieba-quickstart/tree/master/python)
+* [C#](https://github.com/LinZap/jieba-quickstart/tree/master/C-sharp)
+* [Java](https://github.com/LinZap/jieba-quickstart/tree/master/java)
 
 
 ## License

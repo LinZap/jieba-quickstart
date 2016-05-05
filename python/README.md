@@ -10,6 +10,12 @@
 	pip install jieba
 	py main.py
 ```
+## 其他版本
+* [PHP](https://github.com/LinZap/jieba-quickstart/tree/master/php)
+* [R](https://github.com/LinZap/jieba-quickstart/tree/master/R)
+* [Python](https://github.com/LinZap/jieba-quickstart/tree/master/python)
+* [C#](https://github.com/LinZap/jieba-quickstart/tree/master/C-sharp)
+* [Java](https://github.com/LinZap/jieba-quickstart/tree/master/java)
 
 ## License
 
