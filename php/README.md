@@ -7,12 +7,11 @@
 
 ## 注意請先安裝 [composer](https://getcomposer.org/download/)
 
-<br>
 
 ## Launch
 ```
 	composer require fukuball/jieba-php:dev-master
-	php main.py
+	php main.php
 ```
 
 ## License
